@@ -2,6 +2,9 @@
   "name": "@x42/sdk",
   "version": "1.0.0",
   "description": "TypeScript SDK for 42 Spaces protocol",
+  "files": [
+    "dist"
+  ],
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
